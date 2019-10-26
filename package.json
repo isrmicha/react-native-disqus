@@ -1,0 +1,7 @@
+{
+  "name": "react-native-disqus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/isrmicha/react-native-disqus.git",
+  "license": "MIT",
+}
