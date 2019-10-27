@@ -4,4 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/isrmicha/react-native-disqus.git",
   "license": "MIT",
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.2",
+    "react-native-autoheight-webview": "^1.2.2",
+    "react-native-webview": "^7.4.3"
+  }
 }
