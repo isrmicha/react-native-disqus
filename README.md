@@ -25,7 +25,7 @@ or
 
 ## Usage
 
-Import the `WebView` component from `react-native-webview` and use it like so:
+Import the `ReactNativeDisqus` component from `react-native-disqus` and use it like so:
 
 ```jsx
 import React, { Component } from 'react';
