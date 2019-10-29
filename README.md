@@ -35,7 +35,7 @@ import ReactNativeDisqus from 'react-native-disqus';
 class MyWebComponent extends Component {
   render() {
     return (
-      <ReactNativeDisqus shotname="INSERT_YOUR_DISQUS_SHORTNAME" id="UNIQUE_TOPIC_ID" />
+      <ReactNativeDisqus shortname="INSERT_YOUR_DISQUS_SHORTNAME" id="UNIQUE_TOPIC_ID" />
     );
   }
 }
