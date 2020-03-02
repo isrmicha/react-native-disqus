@@ -13,14 +13,17 @@
 
 *Install with Yarn*
 
-`yarn add react-native-disqus` 
+`yarn add react-native-disqus react-native-webview` 
 
 or
 
 *Install with Npm*
 
-`npm install react-native-disqus --save` 
+`npm install react-native-disqus react-native-webview --save` 
 
+## If React Native < 0.60
+
+`react-native link react-native-webview` 
 
 
 ## Usage
