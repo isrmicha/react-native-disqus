@@ -3,6 +3,9 @@
 
 **React Native Disqus** let you simple implement Disqus chat in your APP.
 
+## Contribute
+
+[Buy me a coffee =)](https://www.patreon.com/isrmicha)
 
 ## Platforms Supported
 
