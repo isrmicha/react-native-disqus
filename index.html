@@ -23,7 +23,7 @@
 		   params[decode(match[1])] = decode(match[2]);
 	    
 		if (params["shortname"] === undefined || params["url"] === undefined || params["title"] === undefined) {
-			alert("Required arguments missing");
+			alert("Required arguments missing, please provide SHORTNAME and ID");
 		}
 		else {
 			loadComments(params["shortname"], params["url"], params["title"], params["identifier"]);
